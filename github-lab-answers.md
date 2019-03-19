@@ -46,3 +46,13 @@ Why would you want to use a branch other than the default master?
 you always want the master branch to be running.
 
 "Commit 3 - The 3rd set of GIT homework answers are complete".
+
+
+
+
+Give an example for when you would use git merge and give an example for when it would be better to submit a
+pull request to have your branch merged
+Combines the specified branch’s history into the current branch && if both branch did the same changes
+
+What command do you use to send all of the work that you've done locally to your remote repository?
+git push origin master
