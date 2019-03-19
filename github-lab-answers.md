@@ -31,3 +31,18 @@ if you made any changes on multiple file and you accidentally stage all of it bu
 
 
 "Commit 2 - The 2nd set of GIT homework answers are complete".
+
+
+
+
+What command do you use to create a branch?
+git branch [branch-name]
+
+What command do you use to use a different branch?
+git checkout [branch-name]
+
+
+Why would you want to use a branch other than the default master?
+you always want the master branch to be running.
+
+"Commit 3 - The 3rd set of GIT homework answers are complete".
