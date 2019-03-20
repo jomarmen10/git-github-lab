@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  font-style: italic;
+}
+
+h3 {
+  color: blue;
+}
+
+body {
+  margin: 0 auto;
+  padding: 70px;
+}
